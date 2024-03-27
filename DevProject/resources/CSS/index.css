@@ -1,0 +1,44 @@
+h1{
+    font-family: Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    
+    display: inline-block;
+    height:80px;
+    weight: 100%;
+    
+}
+
+header {
+    text-align: center;
+    background-image: url(./pattern.jpeg);
+    margin-bottom: 100px;
+}
+
+.colorblue {
+    color: blue;
+    font-weight: bold;
+}
+
+.brushes {
+    background-color: mediumspringgreen;
+}
+
+.frames {
+    background-color: lightcoral;
+}
+
+.paint {
+    background-color: skyblue;
+}
+
+h2 {
+    font-family: Helvetica, sans-serif;
+    color: white;
+}
+
+p {
+    font-family: Helvetica, sans-serif;
+}
